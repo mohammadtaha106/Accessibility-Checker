@@ -19,6 +19,6 @@ a {
     text-decoration-thickness: 8;
 }
 html {
-    -webkit-text-size-adjust: none; /* for iOS Safari */
+    -webkit-text-size-adjust: none; 
     text-size-adjust: none; /* for other mobile browsers */
-  }
+}
